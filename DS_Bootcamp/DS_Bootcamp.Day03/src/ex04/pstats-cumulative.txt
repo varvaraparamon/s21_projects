@@ -1,0 +1,13 @@
+         445792 function calls (440964 primitive calls) in 3.548 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1463 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    3.550    3.550 /home/varvara/s21/DS_Bootcamp.Day03-1/src/ex04/financial_enhanced.py:7(get_financial_data)
+        1    0.000    0.000    2.158    2.158 /home/varvara/s21/DS_Bootcamp.Day03-1/src/ex00/virtual-env/armondvi/lib/python3.10/site-packages/httpx/_api.py:174(get)
+        1    0.000    0.000    2.158    2.158 /home/varvara/s21/DS_Bootcamp.Day03-1/src/ex00/virtual-env/armondvi/lib/python3.10/site-packages/httpx/_api.py:39(request)
+        1    0.000    0.000    1.847    1.847 /home/varvara/s21/DS_Bootcamp.Day03-1/src/ex00/virtual-env/armondvi/lib/python3.10/site-packages/httpx/_client.py:771(request)
+        1    0.000    0.000    1.845    1.845 /home/varvara/s21/DS_Bootcamp.Day03-1/src/ex00/virtual-env/armondvi/lib/python3.10/site-packages/httpx/_client.py:879(send)
+
+
